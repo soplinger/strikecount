@@ -1,0 +1,19 @@
+# Strikecount sample: afternoon storm over the hill farm
+location Hill Farm
+temp 18
+units km
+
+14:02:10 flash   cloud-to-ground, north ridge
+14:02:12 thunder
+14:05:40 flash
+14:05:55 thunder   rolling
+14:09:03 flash
+14:09:04 thunder   sharp crack
+14:12:30 flash
+14:12:48 thunder
+14:20:00 flash     no sound heard
+14:24:15 flash
+14:24:33 thunder
+14:31:02 thunder   far rumble, no flash logged
+14:33:50 flash
+14:34:05 thunder
